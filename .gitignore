@@ -1,0 +1,16 @@
+# Maven / NetBeans
+target/
+nbproject/private/
+nbactions.xml
+build/
+dist/
+
+# IDEs e sistema
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
